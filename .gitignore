@@ -1,0 +1,11 @@
+__pycache__
+averaged_perceptron_tagger
+
+data
+cache
+outputs
+
+*.png
+*.out
+*.npy
+*.json
